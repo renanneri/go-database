@@ -1,4 +1,4 @@
-penaltyId(int);state(text);violation_code(int);plate(text)
+id|int;state|text|3;violation_code|int;plate|text|7
 1336855563;OK;66;14370Z
 7986190747;NY;21;AN787V
 7548754103;NY;71;FSS7060
